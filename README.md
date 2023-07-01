@@ -1,6 +1,7 @@
 # flutter_clean_architecture
 
 A new Flutter project.
+[Figma: Design News App](https://www.figma.com/community/file/975336242667665188)
 
 ## Getting Started
 

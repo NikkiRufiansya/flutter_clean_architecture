@@ -39,6 +39,6 @@ flutter:
   fonts:
     - family: Satoshi
       fonts:
-        - asset: assets/fonts/Satoshi/Satoshi-Regular.otf
-        - asset: assets/fonts/Satoshi/Satoshi-Medium.otf
-        - asset: assets/fonts/Satoshi/Satoshi-Bold.otf
+        - asset: assets/fonts/Satoshi-Regular.otf
+        - asset: assets/fonts/Satoshi-Medium.otf
+        - asset: assets/fonts/Satoshi-Bold.otf
